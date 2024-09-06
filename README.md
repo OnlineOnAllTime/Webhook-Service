@@ -1,6 +1,5 @@
 # Webhook-Service
 ---
---[[
 	
 	webhookService.CreateEmbed(plr, title, description, {
 		['name'] = "name", -- Embed 1
@@ -15,5 +14,4 @@
 
 
 
-]]--
 ---
