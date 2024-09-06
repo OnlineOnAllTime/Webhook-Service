@@ -1,4 +1,6 @@
 # Webhook-Service
+Webhook module for roblox studio
+### Embed request
 ---
 	
 	webhookService.CreateEmbed(plr, title, description, {
@@ -10,8 +12,12 @@
 		['value'] =  Reason,
 		['inline'] = true,
 	}, url,"url of image") 
-	webhookService.CreateMessage("@everyone",url)
 
 
 
 ---
+### Message request
+---
+	webhookService.CreateMessage("@everyone",url)
+---
+
