@@ -28,7 +28,7 @@ module.CreateEmbed = function(Player, title, description, arg1, arg2, url,image)
 			["image"] = {["url"] = image},
 			['description'] = description,
 			['color'] = 15418782, 
-			['url'] = "https://www.youtube.com/watch?v=b2iGRrTBWrs",
+			['url'] = "non",
 			['fields'] = { arg1, arg2 } 
 		}}
 	}
